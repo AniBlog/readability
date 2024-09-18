@@ -1,0 +1,15 @@
+{
+  "name": "aniblogtracker-readability",
+  "version": "0.0.1",
+  "description": "parse html documents to extract article text for other processing strategies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mozilla/readability": "^0.5.0",
+    "jsdom": "^25.0.0"
+  }
+}
